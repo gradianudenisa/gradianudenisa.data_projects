@@ -1,3 +1,4 @@
+theme: minima
 # gradianudenisa.data_projects
 #__Project 1: Hacker News__ <br>
 [Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Hacker%20News)<br>
