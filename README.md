@@ -8,4 +8,16 @@ In this project we are analyzing a dataset of submissions to the Hacker News sit
 * Do Ask HN (meaning users submiting a post to ask the Hacker News community a question) or Show HN (meaning users submiting a post to show the Hacker News community a project, product etc.) receive more comments on average?
 * Do posts created at a certain time receive more comments on average
 
+#__Project 2: App Profiles__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20App%20Profiles)<br>
+The objective of this project is to determine what type of apps are likely to attract more users on Google Play and App Store. We are only focusing on free apps designed for an English-speaking audience.
+
+We are using 2 datasets:
+
+* for Google Play
+* for App Store
+
+
+
+
 This repository is a collection of my guided projects from Dataquest.io. 
