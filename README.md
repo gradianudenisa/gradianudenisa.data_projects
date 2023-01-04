@@ -8,3 +8,4 @@ In this project we are analyzing a dataset of submissions to the Hacker News sit
 * Do Ask HN (meaning users submiting a post to ask the Hacker News community a question) or Show HN (meaning users submiting a post to show the Hacker News community a project, product etc.) receive more comments on average?
 * Do posts created at a certain time receive more comments on average
 
+This repository is a collection of my projects from Dataquest.io. 
