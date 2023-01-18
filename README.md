@@ -8,15 +8,18 @@ In this project we are analyzing a dataset of submissions to the Hacker News sit
 * Do Ask HN (meaning users submiting a post to ask the Hacker News community a question) or Show HN (meaning users submiting a post to show the Hacker News community a project, product etc.) receive more comments on average?
 * Do posts created at a certain time receive more comments on average
 
-#__Project 2: App Profiles__ <br>
-[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20App%20Profiles)<br>
-The objective of this project is to determine what type of apps are likely to attract more users on Google Play and App Store. We are only focusing on free apps designed for an English-speaking audience.
-
-We are using 2 datasets:
-
-* for Google Play
-* for App Store
-
+#__Project 2: Exploring Car Sales Data__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Exploring%20Car%20Sales)<br>
+The goal of this project is to use and apply various data cleaning techniques to:
+* transform numeric data stored as text which should be cleaned and converted, 
+* removing outliers, 
+* dealing with incorrect data, 
+* mapping german words to their english counterparts etc.<br><br>
+and to analyze and explore the included used car listings, namely:<br><br>
+* exploring variations of price across different car brands, 
+* exploring average mileage for top 6 cars (by price) and if there's any visible link with mean price, 
+* finding the most common brand/model combinations, 
+* finding how much cheaper are cars with damage than their non-damaged counterparts etc.
 
 
 
