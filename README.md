@@ -36,7 +36,7 @@ __Weather indicators__
 * Proximity thunderstorm with drizzle
 
 #__Project 4: Wine Quality Indicators__ <br>
-[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Wine%20Quality%20(Matplotlib%20styles))
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Wine%20Quality%20(Matplotlib%20styles))<br>
 Our goal in this project is to use Matplotlib's pre-defined style, namely the fivethirtyeight style to build a graph that shows which attributes have the strongest correlation with the wine quality. We will maximize the data-ink ratio and add various structural elements on top of the fivethirtyeight style.
 
 This repository is a collection of my guided projects from Dataquest.io. 
