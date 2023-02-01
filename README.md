@@ -39,4 +39,14 @@ __Weather indicators__
 [Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Wine%20Quality%20(Matplotlib%20styles))<br>
 Our goal in this project is to use Matplotlib's pre-defined style, namely the fivethirtyeight style to build a graph that shows which attributes have the strongest correlation with the wine quality. We will maximize the data-ink ratio and add various structural elements on top of the fivethirtyeight style.
 
+#__Project 5: Analyzing Exchange Rates__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Exchange%20Rates)<br>
+The objective of this project is to highlight and use various explanatory data visualization techniques:
+* using information design principles (familiarity and maximizing the data-ink ratio) to create better graphs for the targeted audience;
+* creating storytelling data visualizations using Matplotlib;
+* guiding the audience's attention with pre-attentive attributes;
+* creating visual patterns using Gestalt principles.
+
+We will create a storytelling data visualization showing comparatively how the euro-dollar rate changed under the last three US presidents (George W. Bush (2001-2009), Barack Obama (2009-2017), and Donald Trump (2017-2021))
+
 This repository is a collection of my guided projects from Dataquest.io. 
