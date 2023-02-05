@@ -49,4 +49,11 @@ The objective of this project is to highlight and use various explanatory data v
 
 We will create a storytelling data visualization showing comparatively how the euro-dollar rate changed under the last three US presidents (George W. Bush (2001-2009), Barack Obama (2009-2017), and Donald Trump (2017-2021))
 
+#__Project 6: Analyzing Exit Surveys__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Exit%20Surveys)<br>
+Our goal in this project is to use various data cleaning techniques to make the data ready to be analyzed, so that we can extract valuable insights from it. 
+After cleaning and transforming the data to be ready for analysis we want to answer the following:
+* Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+* Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
 This repository is a collection of my guided projects from Dataquest.io. 
