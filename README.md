@@ -57,7 +57,7 @@ After cleaning and transforming the data to be ready for analysis we want to ans
 * Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
 
 #__Project 7: StarWars Surveys__ <br>
-[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Exit%20Surveys)<br>
-The purpose of our analysis is to find out if the original movies are ranked higher overall and enjoy more popularity among the fans of the Star Wars series compared to the more recent movies. The dataset is based on a survey that implied Star Wars fans (for some questions, the respondent had to check one or more boxes). This type of data is difficult to represent in a column, so before analyzing it the dataset needs some cleaning (mapping).
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20StarWars%20Survey)<br>
+The purpose of our analysis is to find out if the original movies are ranked higher overall and enjoy more popularity among the fans of the Star Wars series compared to the more recent movies.<br><br> The dataset is based on a survey that implied Star Wars fans (for some questions, the respondent had to check one or more boxes). This type of data is difficult to represent in a column, so before analyzing it the dataset needs some cleaning (mapping).
 
 This repository is a collection of my guided projects from Dataquest.io. 
