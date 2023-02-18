@@ -17,7 +17,7 @@ The goal of this project is to use and apply various data cleaning techniques to
 * mapping german words to their english counterparts etc.<br><br>
 and to analyze and explore the included used car listings, namely:<br><br>
 * exploring variations of price across different car brands, 
-* exploring average mileage for top 6 cars (by price) and if there's any visible link with mean price, 
+* exploring average mileage for top 6 cars (by price) and see if there's any visible link with mean price, 
 * finding the most common brand/model combinations, 
 * finding how much cheaper are cars with damage than their non-damaged counterparts etc.
 
