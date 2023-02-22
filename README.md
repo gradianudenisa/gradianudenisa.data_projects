@@ -60,4 +60,8 @@ After cleaning and transforming the data to be ready for analysis we want to ans
 [Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20StarWars%20Survey)<br>
 The purpose of our analysis is to find out if the original movies are ranked higher overall and enjoy more popularity among the fans of the Star Wars series compared to the more recent movies.<br><br> The dataset is based on a survey that implied Star Wars fans (for some questions, the respondent had to check one or more boxes). This type of data is difficult to represent in a column, so before analyzing it the dataset needs some cleaning (mapping).
 
+#__Project 8: Analyzing Factbook data SQL__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Factbook%20Data%20SQL)<br>
+In this project, we'll work with data from the CIA World Factbook (the SQLite factbook.db database), a compendium of statistics about all of the countries on Earth. The object of this project is to explore the database using SQL and the Jupyter Notebook interface, filtering the data accordingly to the purpose of our analysis and finding densely populated countries.
+
 This repository is a collection of my guided projects from Dataquest.io. 
