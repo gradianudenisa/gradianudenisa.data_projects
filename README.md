@@ -64,4 +64,11 @@ The purpose of our analysis is to find out if the original movies are ranked hig
 [Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Factbook%20Data%20SQL)<br>
 In this project, we'll work with data from the CIA World Factbook (the SQLite factbook.db database), a compendium of statistics about all of the countries on Earth. The object of this project is to explore the database using SQL and the Jupyter Notebook interface, filtering the data accordingly to the purpose of our analysis and finding densely populated countries.
 
+#__Project 9: Answering Business Questions using SQL__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Business%20Questions%20SQL)<br>
+In this project we will put our SQL skills to work to answer some business questions like:
+* which genre sold the most tracks in USA;
+* which sales agents sold the most tracks;
+* what percentage of purchases are individual tracks vs whole albums.
+
 This repository is a collection of my guided projects from Dataquest.io. 
