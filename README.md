@@ -73,7 +73,7 @@ In this project we will put our SQL skills to work to answer some business quest
 
 #__Project 10: Analyzing Stack Exchange__ <br>
 [Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Analyzing%20Stack%20Exchange)<br>
-The aim of the following analysis is to use Data Science Stack Exchange to determine what content should a data science education company create, based on the interest by subject. In order to find what is best content to write about we will use two popularity proxies: for each tag we'll count how many times the tag was used, and how many times a question with that tag was viewed. <br>
+The aim of the following analysis is to use Data Science Stack Exchange to determine what content should a data science education company create, based on the interest by subject. In order to find what is best content to write about we will use two popularity proxies: for each tag we'll count how many times the tag was used, and how many times a question with that tag was viewed. <br><br>
 The analysis contains visualisations for the most used and most viewed tags as well as additional investigation for deep-learning where we tried to establish if the interest was just momentary or if based on a longer term analysis we can conclude the domain has the potential to remain of interest in the future.
 
 This repository is a collection of my guided projects from Dataquest.io. 
