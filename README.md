@@ -76,4 +76,9 @@ In this project we will put our SQL skills to work to answer some business quest
 The aim of the following analysis is to use Data Science Stack Exchange to determine what content should a data science education company create, based on the interest by subject. In order to find what is best content to write about we will use two popularity proxies: for each tag we'll count how many times the tag was used, and how many times a question with that tag was viewed. <br><br>
 The analysis contains visualisations for the most used and most viewed tags as well as additional investigation for deep-learning where we tried to establish if the interest was just momentary or if based on a longer term analysis we can conclude the domain has the potential to remain of interest in the future.
 
+#__Project 11: Analyzing Fandango Movie Ratings__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Fandango%20Movie%20Ratings)<br>
+The context of this project is based on the work of a data journalist, Walt Hickey, who in October 2015 analyzed movie ratings data and found evidence to suggest that Fandango's rating system was biased and dishonest (discrepancy between the number of stars displayed to users and the actual rating which was almost always rounded up). In this project, we'll analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after the analysis that we just mentioned above. <br><br>
+The analysis will contain a high-level comparison between the shapes of the distributions using kernel density plots and a more granular analysis using some summary statistics to determine the direction of the change.
+
 This repository is a collection of my guided projects from Dataquest.io. 
