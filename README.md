@@ -81,4 +81,13 @@ The analysis contains visualisations for the most used and most viewed tags as w
 The context of this project is based on the work of a data journalist, Walt Hickey, who in October 2015 analyzed movie ratings data and found evidence to suggest that Fandango's rating system was biased and dishonest (discrepancy between the number of stars displayed to users and the actual rating which was almost always rounded up). In this project, we'll analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after the analysis that we just mentioned above. <br><br>
 The analysis will contain a high-level comparison between the shapes of the distributions using kernel density plots and a more granular analysis using some summary statistics to determine the direction of the change.
 
+#__Project 12: Best Markets for E-learning__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Best%20Markets%20for%20E-learning)<br>
+The goal of this project is to find the best two markets to advertise the product of an e-learning company that offers courses on programming. To be more precise, we want to answer questions about a population of new coders that are interested in the subjects they teach (mostly web and mobile development). At the end of the analysis, we would like to know:
+
+* Where are these new coders located.
+* What locations have the greatest densities of new coders.
+* How much money they're willing to spend on learning.<br><br>
+For this analysis we will thoroughly check for Sample Representativity and apply various statistics to summarize distributions and clean the data (dealing with outliers) to avoid incorrect results.
+
 This repository is a collection of my guided projects from Dataquest.io. 
