@@ -90,4 +90,12 @@ The goal of this project is to find the best two markets to advertise the produc
 * How much money they're willing to spend on learning.<br><br>
 For this analysis we will thoroughly check for Sample Representativity and apply various statistics to summarize distributions and clean the data (dealing with outliers) to avoid incorrect results.
 
+#__Project 13: Lottery Addiction__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Lottery%20Addiction)<br>
+In this project we are going to use our knowledge in probability and combinatorics to simulate our contribution to the development of a mobile app that helps people beat lottery addiction by calculating their actual chances of winning. We will focus on the 6/49 lottery and build functions that can answer the following questions:
+
+* What is the probability of winning the big prize with a single ticket?
+* What is the probability of winning the big prize if we play 40 different tickets (or any other number)?
+* What is the probability of having at least five (or four, or three) winning numbers on a single ticket?
+
 This repository is a collection of my guided projects from Dataquest.io. 
