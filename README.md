@@ -23,7 +23,7 @@ and to analyze and explore the included used car listings, namely:<br><br>
 
 #__Project 3: Heavy Traffic Indicators__ <br>
 [Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Heavy%20Traffic%20Indicators)<br>
-Our analysis goal is to determine indicators of heavy traffic on I-94. After processing the data, we are going to use various exploratory data visualziation techniques (like vsualizing time series data with line plots, visualizing correlations with scatter plots, visulizing frequency distributions with bar plots and histograms, comparing graphs using grid charts) to investigate data and find patterns.<br><br>
+Our analysis goal is to determine indicators of heavy traffic on I-94. After processing the data, we are going to use various exploratory data visualization techniques (like visualizing time series data with line plots, visualizing correlations with scatter plots, visualizing frequency distributions with bar plots and histograms, comparing graphs using grid charts) to investigate data and find patterns.<br><br>
 After a rigorous examination, we managed to find two types of indicators of heavy traffic on I-94:
 
 __Time indicators__
