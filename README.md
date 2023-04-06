@@ -98,4 +98,12 @@ In this project we are going to use our knowledge in probability and combinatori
 * What is the probability of winning the big prize if we play 40 different tickets (or any other number)?
 * What is the probability of having at least five (or four, or three) winning numbers on a single ticket?
 
+#__Project 14: Building Spam Filter__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Building%20Spam%20Filter)<br>
+In this project we're going to use the multionomial Naive Bayes algorithm along with a dataset of 5,572 SMS messages that are already classified by humans to build a spam filter for SMS messages with an accuracy of 98.74% on the test set. The outline of our work consists in:
+
+* teach the computer how humans classify messages
+* the computer uses that human knowledge to estimate probabilities for new messages — probabilities for spam and non-spam
+* finally the computer classifies a new message based on these probability values — if the probability for spam is greater, then it classifies the message as spam. Otherwise, it classifies it as non-spam (if the two probability values are equal, then we may need a human to classify the message).
+
 This repository is a collection of my guided projects from Dataquest.io. 
