@@ -106,4 +106,19 @@ In this project we're going to use the multionomial Naive Bayes algorithm along 
 * the computer uses that human knowledge to estimate probabilities for new messages — probabilities for spam and non-spam
 * finally the computer classifies a new message based on these probability values — if the probability for spam is greater, then it classifies the message as spam. Otherwise, it classifies it as non-spam (if the two probability values are equal, then we may need a human to classify the message).
 
+#__Project 14: Preparing for Jeopardy__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Preparing%20for%20Jeopardy)<br>
+In this project we want to figure out which strategy has the most substantial chance of success for the TV show Jeopardy, in other words which patterns we can extract from the data that could help a contestant prepare for Jeopardy like:
+
+* How often the answer can be used for a question;
+* How often questions are repeated;
+* Which terms correspond to high-value questions using a chi-squared test;
+* Which domain of questions constitutes the majority for the top categories.
+
+After analyzing the data we concluded that:
+* An average of 5.8% of the words that form the answer also occur in the question
+* The mean proportion of terms that occured in past questions and are recycled is 68 %
+* According to the chi-squared test, we didn't find statistically significant values of frequencies of words that appear more on high value questions.
+* Focusing on a particular domain of questions is not significant since they constitute only a small percentage of the total questions Therefore, from these strategies the best one would be to study past questions.
+
 This repository is a collection of my guided projects from Dataquest.io. 
