@@ -121,4 +121,11 @@ After analyzing the data we concluded that:
 * According to the chi-squared test, we didn't find statistically significant values of frequencies of words that appear more on high value questions.
 * Focusing on a particular domain of questions is not significant since they constitute only a small percentage of the total questions Therefore, from these strategies the best one would be to study past questions.
 
+#__Project 15: Supervised ML Heart Disease__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Supervised%20ML%20Heart%20Disease
+)<br>
+In this project we want to build a machine learning model that will accurately predict the likelihood of a new patient having heart disease in the future using anonymized data from multiple hospitals on several patient. 
+
+After selecting the features for our model using a Pearson's correlation heat map we experimented using hyperparameter optimization to imporve the model accuracy and we got a model accuracy on the test set of 87.68%.
+
 This repository is a collection of my guided projects from Dataquest.io. 
