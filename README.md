@@ -128,4 +128,17 @@ In this project we want to build a machine learning model that will accurately p
 
 After selecting the features for our model using a Pearson's correlation heat map we experimented using hyperparameter optimization to imporve the model accuracy and we got a model accuracy on the test set of 87.68%.
 
+#__Project 16: Unsupervised learning Credit Card Customer Segmenatation__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Supervised%20ML%20Heart%20Disease
+)<br>
+In this project we are going to use a dataset containing information about the clients of a company and our goal is to help segment them into different groups in order to apply different business strategies for each type of customer. We will use the K-means algorithm to segment the data. In the end we are expected to deliver a group for each client and an explanation of the characteristics of each group and the main points that make them different.
+
+In order to use the algorithm properly and achieve all the goals presented above we'll go through the following steps:
+
+* Analyze the dataset;
+* Prepare the data for modeling;
+* Find an appropriate number of clusters;
+* Segment the data;
+* Interpret and explain the results.
+
 This repository is a collection of my guided projects from Dataquest.io. 
