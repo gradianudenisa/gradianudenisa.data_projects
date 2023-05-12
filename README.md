@@ -141,4 +141,19 @@ In order to use the algorithm properly and achieve all the goals presented above
 * Segment the data;
 * Interpret and explain the results.
 
+#__Project 17: Predicting Insurance Costs (Linear Regression)__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Predicting%20Insurance%20Costs%20(Linear%20Regression))<br>
+The scope of this project is to build the best possible predictive model for the medical insurance cost, given some demographic or personal characteristics of patients. The cost is a continuous, positive number, which makes it a good candidate for a linear regression. 
+
+After exploring the data, based on the statistical measure shown thourgh correlation we chose age, bmi and smoker are predictors for our model. The mean squared wrror was 1.57 on the training set and the coefficient of determination was 0.74. After we checked if the assumptions of linear regressions were met
+* mean of residuals is 0
+* the variance of the erros is 0
+
+After analyzing the residuals, they suggested some violations to the assumptions of linear regression because As fitted values got larger, the residuals trend downward. 
+
+After interpreting the model we concluded that:
+* A year increase for a patient is associated with a 0.04 increase in the log charges, holding smoking status and bmi constant.
+* A unit increase in the subject BMI is associated with a 0.01 increase in the log charges, holding smoking status and age constant.
+* A smoker is associated with a 2.23 increase in the log charges, holding age and bmi constant. About a 930% increase in the charges on the regular scale.
+
 This repository is a collection of my guided projects from Dataquest.io. 
