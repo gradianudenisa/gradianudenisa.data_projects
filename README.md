@@ -156,4 +156,10 @@ After interpreting the model we concluded that:
 * A unit increase in the subject BMI is associated with a 0.01 increase in the log charges, holding smoking status and age constant.
 * A smoker is associated with a 2.23 increase in the log charges, holding age and bmi constant. About a 930% increase in the charges on the regular scale.
 
+ #__Project 18: Classifying Heart Disease (Logistic Regression)__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Classifying%20Heart%20Disease%20using%20Logistic%20Regression))<br>
+The scope of this project is to use the machine learning pipeline, starting from examining the dataset itself to creating a polished classification model using binary logistic regression that will try to classify the presence of heart disease in an individual, given recorded information on various patient characteristics, including age, chest pain and others.
+
+After exploring the data and making some adjustments, we divided the data, choose some predictors based on the findings found from correlations, the Split-Apply-Combine workflow, the RFE algorthm. The model was fit to the training set, and  the predictive ability was evaluated on the test set. We assessed the sensitivity, specificity, overall training and test accuracy of the model. We interpreted the model coefficients on both the log-odds and odds scales. to see if they make sense. The final model evaluation suggested an accuracy of 84%, sensitivity was 76%, and specificity was 90%.
+
 This repository is a collection of my guided projects from Dataquest.io. 
