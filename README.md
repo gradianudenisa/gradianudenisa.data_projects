@@ -163,7 +163,7 @@ The scope of this project is to use the machine learning pipeline, starting from
 After exploring the data and making some adjustments, we divided the data, choose some predictors based on the findings found from correlations, the Split-Apply-Combine workflow, the RFE algorthm. The model was fit to the training set, and  the predictive ability was evaluated on the test set. We assessed the sensitivity, specificity, overall training and test accuracy of the model. We interpreted the model coefficients on both the log-odds and odds scales. to see if they make sense. The final model evaluation suggested an accuracy of 84%, sensitivity was 76%, and specificity was 90%.
 
  #__Project 19: Predicting Employee Productivity (Tree Models)__ <br>
-[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Classifying%20Heart%20Disease%20using%20Logistic%20Regression](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Employee%20Productivity%20(Tree%20Models)))<br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Employee%20Productivity%20(Tree%20Models)))<br>
 In this project we:
 * Cleaned the data and created a target column for a classification tree which illustrates which aspects of a factory are best at predicting if a team will be productive or not.
 
@@ -174,5 +174,9 @@ In this project we:
 * Used a random forest to either improve or double check the scores of your tree.  
 
 We discovered that the "incentive" and the "smv" variables were the ones with the greatest influence on the final prediction.We got satisfacatory results. The accuracy on the test set was 85%. We used cross-validation to evaluate the tree and we got an accuracy of 82%, a mean Cross Validated Precision of85%, a mean Cross Validated recall of 92% and a mean Cross Validated F1 score of 88%. The accuracy when using the RandomForestClassifier was 85%.
+
+#__Project 20: Optimizing Model Prediction Forest Fires__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Optimizing%20Model%20Prediction%20Forest%20Fires)<br><br>
+In this project we are going to use a standard linear regression model as a reference and the goal is to iterate on it using various tools for optimizing the machine learning workflow such as handling outliers with imputation using k-Nearest Neighbors, performing k-fold cross-validation, and using regularization — among others.<br><br> After processing the data, I developed some candidate models using forward feature selection, backward feature selection, ridge model, LASSO model and spline model.In the end I evaluated the models using k-fold cross-validation since it gives us a better idea about model performance on unseen datasets compared to a single train-test split.The machine learning task was to predict the extent of fire damage to a forest.  
 
 This repository is a collection of my guided projects from Dataquest.io. 
