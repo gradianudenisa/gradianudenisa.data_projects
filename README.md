@@ -179,4 +179,9 @@ We discovered that the "incentive" and the "smv" variables were the ones with th
 [Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Optimizing%20Model%20Prediction%20Forest%20Fires)<br><br>
 In this project we are going to use a standard linear regression model as a reference and the goal is to iterate on it using various tools for optimizing the machine learning workflow such as handling outliers with imputation using k-Nearest Neighbors, performing k-fold cross-validation, and using regularization — among others.<br><br> After processing the data, I developed some candidate models using forward feature selection, backward feature selection, ridge model, LASSO model and spline model.In the end I evaluated the models using k-fold cross-validation since it gives us a better idea about model performance on unseen datasets compared to a single train-test split.The machine learning task was to predict the extent of fire damage to a forest.  
 
+#__Project 21: Handwritten Digits Classifier (Neural Network)__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Handwritten%20Digits%20Classifier%20(Neural%20Network))<br><br>
+In this project the goal is to train, test and improve a few different deep neural networks for image classification. More specifically, we will build models that can classify handwritten digits, exploring the effectiveness of deep, neural networks at classifying images. We tested using a K-Nearest Neighbors Model, a Neural Network With One, Two and Three Hidden Layers and a different number of neurons in each layer.
+We got the best accuracy with a neural network model that uses two hidden layers with 256 neurons in the first hidden layer and 256 neurons in the second hidden layer.
+
 This repository is a collection of my guided projects from Dataquest.io. 
