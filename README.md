@@ -188,4 +188,23 @@ We got the best accuracy with a neural network model that uses two hidden layers
 [Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Predicting%20Listing%20Gains%20(Tensorflow%20Bin%20Classification%20Seq%20API)))<br><br>
 This project focuses on building Deep Learning Classification models using the deep learning framework, Keras, in TensorFlow.We used the Sequential API for the classifier algorithm to predict if there will be listing gains and got a reasonable accuracy after covering the major steps of the modeling pipeline, starting with exploratory data analysis, then moving on to visualizing the important variables, then finally creating a deep learning classification model, compiling, training and evalauting it after choosing a suitable  optimizer, a loss function and an evaluation metric.
 
+#__Project 23: Project Time-Series Forecasting on the S&P 500 (TensorFlow)__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Time-Series%20Forecasting%20on%20the%20S%26P%20500)<br><br>
+Our goal is to build a successful model to forecast how the S&P 500 index will move based on its past behavior. After inspecting the data for any basic data quality issues, we went through the specifics for preparing this dataset for a time series forecast with RNNs like creating time windows for each dataset and reshaping the data into NumPy arrays to prepare it for TensorFlow models.
+
+Once the data was prepared, we built, trained, and evaluated several forecasting models (Basic RNN, Basic LSTM, LSTM+convolutional layer) until we have achieved satisfactory performance.After trying  a number of different adjustments we could make to find the sweet spot between model performance and complexity like 
+* Window size
+* Number of hidden layers
+* Number of nodes per hidden layer
+* Type of recurrent layer (SimpleRNN, LSTM, GRU)
+* Inclusion (or not) of a convolutional layer
+* Activation function used (or not) at each layer
+* Optimizer
+* Loss function
+* Number of epochs
+* 
+we evaluated the model performance on the test set and got an R-squared value of 93.7%.
+
+
+
 This repository is a collection of my guided projects from Dataquest.io. 
