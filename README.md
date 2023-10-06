@@ -202,9 +202,18 @@ Once the data was prepared, we built, trained, and evaluated several forecasting
 * Optimizer
 * Loss function
 * Number of epochs
-* 
+
 we evaluated the model performance on the test set and got an R-squared value of 93.7%.
 
+#__Project 24:  Classifying Disaster-Related Tweets as Real or Fake (NLP for Deep Learning)__ <br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Time-Series%20Forecasting%20on%20the%20S%26P%20500)<br><br>
+In this project we monitored and analyzed news on social media platforms to look for misinformation by building a deep learning text classification model that predicts which Tweets are about real disasters and which aren't. After performing some data exploration and  preprocessing (Coverting the text to lowercase, Removing punctuation, Tokenizing the text, Removing stopwords from the text, Lemmatization ) we generated some visualization with WordCloud to get a sense of the overall theme of the text dataset, to find parrerns in the data, to spot errors.
+
+Then we built, trained and evaluatde several deep learning models for text classification like:
+* Shallow Neural Network (instantiated a model with the Keras Sequential API in TensorFlow,  add an Input layer, followed by the vectorizer and the embedding layer);
+* Multilayer Deep Text Classification Model (added a GlobalAveragePooling1D Layer to help standardize our data, a Dropout layer to implement some regularization and prevent overfitting, then added several dense layers and experimented with other regularization techniques (Lasso and Ridge regularization) in these layers to help the model  generalize better to new unseen data and prevent overfitting);
+* Multilayer Bidirectional LSTM Model (we chose an LSTM model because sequence models are powerful tools when we have to deal with sequential data such as text. We added multiple Bidirectional LSTM layers (that retain a memory of both future and past context, enabling them to make more accurate predictions for text classification tasks));
+* Transformer Model (they tend to outperform sequence models in text classification tasks due to their attention mechanisms, which focus on the most important parts of a sentence when predicting, they have faster training times, better scalability, being more computational efficient). This was the model with the most satisfacatory results.
 
 
 This repository is a collection of my guided projects from Dataquest.io. 
