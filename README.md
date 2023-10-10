@@ -206,7 +206,7 @@ Once the data was prepared, we built, trained, and evaluated several forecasting
 we evaluated the model performance on the test set and got an R-squared value of 93.7%.
 
 #__Project 24:  Classifying Disaster-Related Tweets as Real or Fake (NLP for Deep Learning)__ <br>
-[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Time-Series%20Forecasting%20on%20the%20S%26P%20500)<br><br>
+[Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Classifying%20Disaster%20Related%20Tweets%20(deep%20learning%20text%20classification))<br><br>
 In this project we monitored and analyzed news on social media platforms to look for misinformation by building a deep learning text classification model that predicts which Tweets are about real disasters and which aren't. After performing some data exploration and  preprocessing (Coverting the text to lowercase, Removing punctuation, Tokenizing the text, Removing stopwords from the text, Lemmatization ) we generated some visualization with WordCloud to get a sense of the overall theme of the text dataset, to find parrerns in the data, to spot errors.
 
 Then we built, trained and evaluatde several deep learning models for text classification like:
