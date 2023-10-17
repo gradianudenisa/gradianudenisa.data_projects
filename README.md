@@ -217,6 +217,11 @@ Then we built, trained and evaluatde several deep learning models for text class
 
 #__Project 25:  Detect Pneumonia (CNNs and Transfer Learning)__ <br>
 [Click here to redirect to code](https://github.com/gradianudenisa/gradianudenisa.data_projects/tree/main/Project%20Classifying%20Disaster%20Related%20Tweets%20(deep%20learning%20text%20classification))<br><br>
-In this project we want to build a deep learning model trained on chest X-ray images from children to classify whether an X-ray indicates signs of pneumonia. We built and trained two CNN classifiers. W started with a simple CNN model (1 convolutional layer, 1 max pooling layer,1 flatten layer,1 fully-connected layer) which we developed further by adding more layers and implementing some regularization techniques like adding data augumentation, an Earlystopping callback, a batch normalization layer. The second model was built using transfer learning. We used the ResNet v2 pre-trained model, hoping  that the pre-trained weights can't be useful feature extractors
+In this project we want to build a deep learning model trained on chest X-ray images from children to classify whether an X-ray indicates signs of pneumonia. We built and trained two CNN classifiers. 
+
+For the first model we started with a simple CNN and then we increased the number of layers, added regularization (data augumentation, earlystopping callback, adding dropout layers, batch normalization) and tuned different hyperparameters further to try to improve the model's performance.
+
+The second model was built using transfer learning (used the ResNet v2 pre-trained model) hoping that the pre-trained weights can't be useful feature extractors. We also fine-tuned the model unfreezing some of the layers of the base model and retraining the new model with a much smaller learning rate.
+
 
 This repository is a collection of my guided projects from Dataquest.io. 
